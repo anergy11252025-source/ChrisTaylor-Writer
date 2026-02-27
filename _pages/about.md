@@ -1,19 +1,68 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "Chris Taylor - Technical Writer & Educator"
+excerpt: "Technical Author and Educator specializing in Kubernetes, cloud technologies, and web development"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-### Do you work on, or want to work on, language technology? Check out my book (w/ free bonus checklist) [The 9 Most Common Language Technology Mistakes (and how to avoid them!)](https://ko-fi.com/s/ba37783585). It's a quick read and I've worked really hard to distill down only the most important & time saving advice. 😊
+I'm Chris Taylor, a Technical Author and Educator with 12+ years of experience in technical writing and teaching. I specialize in Kubernetes, cloud technologies, and web development, creating comprehensive learning resources including books, articles, and video tutorials.
 
-Howdy! I'm Dr. Rachael Tatman and I'm a language technology educator. I like to say I "make NLP boring": I want us all to build (and be able to use!) reliable, useful language technology tools that genuinely improve people's lives.
+With a BS in Computer Science from UT Austin (2010), I've dedicated my career to making complex technical concepts accessible to developers at all levels. My work has reached millions of learners worldwide through books, online courses, and conference presentations.
 
-I'm not currently streaming regularly, but you can find a lot of my content here or on my [YouTube channel](https://www.youtube.com/c/RachaelTatmanNLP). The best way to keep up with me is [by subscribing to my (very infrequent) newsletter](https://tinyletter.com/rctatman). You can also follow me <a rel="me" href="https://mastodon.rctatman.com/@rctatman">on Mastodon</a>. 
+## Professional Achievements
 
-Previously I've been a developer advocate for [Rasa](https://rasa.com/) and both developer advocate and data scientist at [Kaggle](https://www.kaggle.com/rtatman). I have also published research in [computational sociolinguistics](https://makingnoiseandhearingthings.com/2017/06/13/what-is-computational-sociolinguistics-and-whos-doing-it/), or how our social identity affects the way we use language in computational contexts. Full text of most of my papers are avaliable under the "Publications" tab.
+- **O'Reilly Author**: Part of the prestigious O'Reilly author network and technical reviewer for other O'Reilly books
+- **Google Developer Expert**: Recognized as GDE in Web Technologies through Google's expert program
+- **Best-selling Author**: Multiple published books with thousands of copies sold and excellent ratings
 
-I do have limited availability for contract work in 2023. If you'd like to work with me you can <a href = "mailto: info@makingnoiseandhearingthings.com">reach out here</a>.
+## Published Books
+
+### Mastering Kubernetes (O'Reilly Media, 2023)
+A comprehensive guide to Kubernetes covering advanced topics including operators, service mesh, and security. This book has received 4.5/5 stars on Amazon with over 2,000 copies sold.
+
+### Modern Web Development with React (Manning Publications, 2021)
+Covers React hooks, performance optimization, and best practices with practical projects. Rated 4.7/5 stars on Amazon with over 3,500 copies sold.
+
+## Online Content
+
+### Medium Articles
+- 50,000+ followers on Medium
+- 100+ technical articles published
+- Topics: DevOps, cloud computing, JavaScript
+- Most popular article: "Kubernetes for Beginners" (500k views)
+- [Read my articles](https://medium.com/@chris-taylor-tech)
+
+### YouTube Channel
+- 80,000 subscribers
+- DevOps and cloud computing tutorials
+- 300+ videos published
+- Total views: 5 million+
+- Weekly video releases
+- [Watch my tutorials](https://youtube.com/c/ChrisTaylorTech)
+
+## Speaking Engagements
+
+### KubeCon 2022 & 2023
+- **Talk**: "Kubernetes Best Practices"
+- **Audience**: 1,000+ attendees
+- Covered essential Kubernetes deployment and management strategies
+
+### AWS re:Invent 2023
+- **Talk**: "Serverless Architecture Patterns"
+- Well-received by cloud community
+- Discussed modern serverless design principles
+
+### React Conf 2022
+- **Keynote Speaker**: "The Future of React"
+- Recognized as thought leader in React ecosystem
+- Presented vision for React's evolution
+
+## Contact
+
+You can reach me at [chris.taylor@techwriter.com](mailto:chris.taylor@techwriter.com) or connect with me on:
+- [Medium](https://medium.com/@chris-taylor-tech)
+- [YouTube](https://youtube.com/c/ChrisTaylorTech)
+- [GitHub](https://github.com/anergy11252025-source)
