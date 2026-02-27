@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Rachael Tatman"
+title                    : "Chris Taylor - Technical Writer"
 title_separator          : "-"
-name                     : &name "Rachael Tatman"
-description              : &description "Data scientist, Developer advocate, Linguist"
-url                      : https://www.rctatman.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "rctatman/rctatman.github.io"
+name                     : &name "Chris Taylor"
+description              : &description "Technical Author and Educator specializing in Kubernetes, cloud technologies, and web development"
+url                      : https://anergy11252025-source.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/ChrisTaylor-Writer" # the subpath of your site, e.g. "/blog"
+repository               : "anergy11252025-source/ChrisTaylor-Writer"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -71,44 +71,26 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "false" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :  "UA-127655615-1"
+    tracking_id          :
 
 # Site Author
 author:
-  name             : "Dr. Rachael Tatman"
-  avatar           : "rachael_headshot (2).jpg"
-  bio              : "Data Science & NLP"
-  location         : "Seattle, WA"
+  name             : "Chris Taylor"
+  avatar           : # "profile.png"
+  bio              : "Technical Author and Educator | Kubernetes, Cloud & Web Development Expert"
+  location         : "Austin, Texas"
   employer         : 
-  googlescholar    : "https://scholar.google.com/citations?user=1BKWg5gAAAAJ&hl=en"
-  email            : #"rachael.tatman@gmail.com"
+  email            : "chris.taylor@techwriter.com"
   uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "rctatman"
-  google_plus      :
-  keybase          :
-  instagram        :
-  lastfm           :
-  linkedin         : "rachael-tatman-500a323a"
+  medium           : "https://medium.com/@chris-taylor-tech"
+  youtube          : "ChrisTaylorTech"
+  github           : "anergy11252025-source"
+  linkedin         :
+  twitter          :
+  googlescholar    :
   orcid            :
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  twitter          : "rctatman"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          : "RachaelTatmanNLP"
-  wikipedia        :
-
 
 # Reading Files
 include:
@@ -247,7 +229,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
@@ -274,8 +256,8 @@ whitelist:
 #  - Archive page should exist at path when using Liquid method or you can
 #    expect broken links (especially with breadcrumbs enabled)
 #  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
-#  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
-#  - <base_path/my-awesome-category/index.html ~> path: /
+#  - <base_path>/categories/my-awesome-category/index.html ~> path: /categories/
+#  - <base_path>/my-awesome-category/index.html ~> path: /
 category_archive:
   type: liquid
   path: /categories/
